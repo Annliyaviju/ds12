@@ -1,6 +1,5 @@
 //Annliya Viju
 //Roll no:12
-
 #include<stdio.h>
 void main()
 {
